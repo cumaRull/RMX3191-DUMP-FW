@@ -1,0 +1,6 @@
+cn.wps.moffice_eng:cn.wps.moffice_eng.apk:wps.txt:false
+com.daraz.android:com.daraz.android.apk:darazChannel.txt:false
+com.realme.link:com.realme.link.apk::false
+com.tencent.igoppo:com.tencent.igoppo.apk::false
+com.zhiliaoapp.musically:com.zhiliaoapp.musically.apk:pre_install.appsflyer:false
+com.linkedin.android:LinkedIn::true

@@ -1,0 +1,20 @@
+## sys_oplus_mssi_64_cn-user 11 RP1A.200720.011 1614161234317 release-keys
+- Manufacturer: alps
+- Platform: mt6768
+- Codename: oppo6768
+- Brand: alps
+- Flavor: sys_oplus_mssi_64_cn-user
+- Release Version: 11
+- Kernel Version: 4.14.186
+- Id: RP1A.200720.011
+- Incremental: 1614161234317
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: alps/vnd_oppo6768/oppo6768:11/RP1A.200720.011/1614161234317:user/release-keys
+- OTA version: 
+- Branch: sys_oplus_mssi_64_cn-user-11-RP1A.200720.011-1614161234317-release-keys
+- Repo: alps/oppo6768
