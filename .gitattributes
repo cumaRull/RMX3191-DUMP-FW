@@ -1,0 +1,7 @@
+recovery.img filter=lfs diff=lfs merge=lfs -text
+my_stock/priv-app/OppoGallery2/OppoGallery2.apk filter=lfs diff=lfs merge=lfs -text
+system/system/system_ext/priv-app/Settings/Settings.apk filter=lfs diff=lfs merge=lfs -text
+system/system/apex/com.android.vndk.current.apex filter=lfs diff=lfs merge=lfs -text
+system/system/app/OppoCamera/OppoCamera.apk filter=lfs diff=lfs merge=lfs -text
+my_heytap/priv-app/GmsCore/GmsCore.apk filter=lfs diff=lfs merge=lfs -text
+my_heytap/priv-app/Velvet/Velvet.apk filter=lfs diff=lfs merge=lfs -text
